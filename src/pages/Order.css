@@ -1,0 +1,18 @@
+.order-image-container {
+    text-align: center;
+  }
+  
+  .order-image {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  h2 {
+    margin: 20px 10px;
+  }
+  
